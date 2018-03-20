@@ -4,7 +4,7 @@ use tensorflow.
 
 the file embedding_weights.pkl is word2vec with wiki corpus. 
 
-can be donload here: ...
+can be donload here: https://pan.baidu.com/s/1L418KJlWOsTioFeTYalRYA
 
 index_dic.pkl is the map<word,index>
 
@@ -20,3 +20,9 @@ data_deal.py:deal with the data.
 
 train.py:train.
 
+
+According to the following paper:
+
+http://www.aclweb.org/anthology/W15-1506
+
+http://www.aclweb.org/anthology/P15-1017
